@@ -13,6 +13,25 @@ Suivis des Fix/Ajout et mise à jour du serveur
 *Changement du MDT Police -> touche supprimer pour l'ouvrir
 *Traduction du Banking en place
 
+
+
+## Patch 05/10/2023
+
+                             
+*Fix du stretcher EMS (Touche X pour le supprimer)
+*Suppression des portes inutile restante
+*Nouveau Véhicule EMS Ambulance 
+*Traduction des banques (by Faya)
+*Traduction du MDT Police (by Faya) 
+*Remplacement du Nom du serveur dans la plupart des menus
+*Mise en place logo serveur
+*Réglage de la difficulté de la FleecaBank
+*Correction de certaines images d'objets
+
+
+
+
+
 ## By Shino - vico4dev
 
 
