@@ -7,10 +7,10 @@ Suivis des Fix/Ajout et mise à jour du serveur
 ## Patch 04/10/2023
 
                              
-*Mise à jour et amélioration du script police job + maj des points dans le mapping Gabz
-*Installation et configuration de QUARSARPHONE (pensez à changer de téléphone avec classic_phone ou black_phone)
-*Installation d'un nouveau stretcher(civiére) pour EMS.
-*Changement du MDT Police -> touche supprimer pour l'ouvrir
+*Mise à jour et amélioration du script police job + maj des points dans le mapping Gabz<br/>
+*Installation et configuration de QUARSARPHONE (pensez à changer de téléphone avec classic_phone ou black_phone)<br/>
+*Installation d'un nouveau stretcher(civiére) pour EMS.<br/>
+*Changement du MDT Police -> touche supprimer pour l'ouvrir<br/>
 *Traduction du Banking en place
 
 
@@ -18,15 +18,28 @@ Suivis des Fix/Ajout et mise à jour du serveur
 ## Patch 05/10/2023
 
                              
-*Fix du stretcher EMS (Touche X pour le supprimer)
-*Suppression des portes inutile restante
-*Nouveau Véhicule EMS Ambulance 
-*Traduction des banques (by Faya)
-*Traduction du MDT Police (by Faya) 
-*Remplacement du Nom du serveur dans la plupart des menus
-*Mise en place logo serveur
-*Réglage de la difficulté de la FleecaBank
-*Correction de certaines images d'objets
+*Fix du stretcher EMS (Touche X pour le supprimer)<br/>
+*Suppression des portes inutile restante<br/>
+*Nouveau Véhicule EMS Ambulance <br/>
+*Traduction des banques (by Faya)<br/>
+*Traduction du MDT Police (by Faya) <br/>
+*Remplacement du Nom du serveur dans la plupart des menus<br/>
+*Mise en place logo serveur<br/>
+*Réglage de la difficulté de la FleecaBank<br/>
+*Correction de certaines images d'objets<br/>
+
+
+## Patch 06/10/2023
+
+                             
+*Ajout véhicule EMS<br/>
+*Ajout véhicule LSPD<br/>
+*Ajout d'un systéme de facture pour les entreprises<br/>
+*Mise en place d'un MDT Ems (version test)<br/>
+*BlackList de certains vétements au shop<br/>
+*Ajout du nouveau logo au chargement du serveur<br/>
+*Traduction partiel du téléphone <br/>
+*Retrait du compteur mission EMS
 
 
 
