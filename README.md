@@ -41,7 +41,12 @@ Suivis des Fix/Ajout et mise à jour du serveur
 *Traduction partiel du téléphone <br/>
 *Retrait du compteur mission EMS
 
-
+## Patch 06/10/2023 #2
+*Ajout des jobs : hornys, bahama et fermier dans la base serveur<br/>
+*Placement du vestiaire hornys<br/>
+*Placement du Menu patron hornys<br/>
+*Placement de la table de craft hornys <br/>
+*Ajout du menu facture à la plupart des métiers (Menu Radial F1 ->  Métier -> Faire une Facture<br/>
 
 
 
