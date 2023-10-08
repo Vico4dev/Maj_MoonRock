@@ -48,6 +48,17 @@ Suivis des Fix/Ajout et mise à jour du serveur
 *Placement de la table de craft hornys <br/>
 *Ajout du menu facture à la plupart des métiers (Menu Radial F1 ->  Métier -> Faire une Facture<br/>
 
+## Patch 07/10/2023
+*Installation du script systéme de mechanic (merci faya)<br/>
+*Création du menu craft ferme<br/>
+*Ajout d'un frigo au hornys<br/>
+*Ajout d'un frigo au Bennys<br/>
+*Ajout de 2 frigo et d'une caisse à la ferme<br/>
+*Ajout de la prise de service au Bennys<br/>
+*Ajout Menu patron à la ferme<br/>
+*Delete du message de connexion/déconnexion dans le chat.<br/>
+*Ajout d'un indicateur visuel quand un joueur se déconnecte.<br/>
+
 
 
 ## By Shino - vico4dev
