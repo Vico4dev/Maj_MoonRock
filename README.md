@@ -59,7 +59,11 @@ Suivis des Fix/Ajout et mise à jour du serveur
 *Delete du message de connexion/déconnexion dans le chat.<br/>
 *Ajout d'un indicateur visuel quand un joueur se déconnecte.<br/>
 
-
+## Patch 08/10/2023
+*Création du script bahama<br/>
+*Mise en place de frigo, évier pour le bahama<br/>
+*AJout de la prise de serivce au bahama<br/>
+*Ajout de menu craft bahama<br/>
 
 ## By Shino - vico4dev
 
