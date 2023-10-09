@@ -65,6 +65,18 @@ Suivis des Fix/Ajout et mise à jour du serveur
 *AJout de la prise de serivce au bahama<br/>
 *Ajout de menu craft bahama<br/>
 
+## Patch 09/10/2023
+*Mise en place des nouvelle tab de craft : hornys,bahama,ferme,weed,coke,lsd,meth, heroin<br/>
+*Ajout de 3 véhicules LSPD<br/>
+*Optimisation du cout en ressource du script de civiére et d'inventaire<br/>
+*Diverse petite traduction<br/>
+*Fix d'une erreur console qui se provoqué si le joueur avait un téléphone<br/>
+*Ajout du mapping Maze Bank Arena<br/>
+*Ajout de toutes les drogues manquante à la vente détail PNJ<br/>
+*Ajout des dealers manquant en gros<br/>
+*Resize des nouveaux véhicules LSPD<br/>
+
+
 ## By Shino - vico4dev
 
 
