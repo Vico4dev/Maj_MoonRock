@@ -77,6 +77,14 @@ Suivis des Fix/Ajout et mise à jour du serveur
 *Resize des nouveaux véhicules LSPD<br/>
 
 
+## Patch 10/10/2023
+Suppresion de toutes les fringues Femme HS.<br/>
+Ajout d'un GRANGER LSPD.<br/>
+Ajout d'un véhicule BSO.<br/>
+Ajout d'un nouveau script pour la ferme (A tester).<br/>
+Ajout d'un script pour la gestion des masques comme objet<br/>
+Traduction et ajustement nom d'objet, description..<br/>
+
 ## By Shino - vico4dev
 
 
