@@ -85,6 +85,19 @@ Ajout d'un nouveau script pour la ferme (A tester).<br/>
 Ajout d'un script pour la gestion des masques comme objet<br/>
 Traduction et ajustement nom d'objet, description..<br/>
 
+
+## Patch 11/10/2023
+Configuration compléte du nouveau systéme de la ferme.</br>
+Ajout des différents crafts aux métiers concernés</br>
+Retrait des gains de cryptostick dans certains métiers.</br>
+Mise en place du masque comme objet ainsi que des shops correspond.</br>
+Remplacement des positions des shops armes pour correspondrent au mapping Gabz</br>
+Les produit du bennys sont maintenant consomables</br>
+Les produit du bahama sont maintenant consomables</br>
+Mise à jour des items dispo sur le serveur</br>
+
+
+
 ## By Shino - vico4dev
 
 
