@@ -96,6 +96,12 @@ Les produit du bennys sont maintenant consomables</br>
 Les produit du bahama sont maintenant consomables</br>
 Mise à jour des items dispo sur le serveur</br>
 
+## Patch 13/10/2023
+Ajout du menu facture aux métier bahamas</br>
+Quelque fix d'image d'items </br>
+Mise en place d'une table de DJ au Bahamas</br>
+Ajout d'effet a plusieurs drogues</br>
+
 
 
 ## By Shino - vico4dev
