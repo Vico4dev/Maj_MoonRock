@@ -102,6 +102,22 @@ Quelque fix d'image d'items </br>
 Mise en place d'une table de DJ au Bahamas</br>
 Ajout d'effet a plusieurs drogues</br>
 
+## Patch 17/10/2023
+Maj de la premiére parti des prix véhicules shop</br>
+Retrait du hud qui afficher l'ajout d'argent au joueur</br>
+Réactivation des radios en voiture</br>
+Retrait de la fonction qui permettais de braquer un pnj pour récupérer de l'argent</br>
+Remplacement du QB-target (alt + clic) visuel+fonction, certaine fonction sont encore à revoir</br>
+Ajout garage entrerpise et public au bennys</br>
+Fix du probléme qui empécher de sortir un véhicule de la fourriére </br>
+Ajout des items produit pour hornys/bahamas utilisable.</br>
+Remplacement des icones métier dans le téléphone</br>
+Attribution des numéros entreprise</br>
+Mise en place du towjob pour le bennys</br>
+Retrait du bouton vétéments du menu admin (/pedmenu id)</br>
+Ajout de notification au métier ferme</br>
+
+
 
 
 ## By Shino - vico4dev
