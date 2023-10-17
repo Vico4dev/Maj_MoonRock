@@ -118,6 +118,19 @@ Retrait du bouton vétéments du menu admin (/pedmenu id)</br>
 Ajout de notification au métier ferme</br>
 
 
+## Patch 18/10/2023
+Ajout du grossiste + configuration des prix (emplacement provisoire)</br>
+Changement du Menu Admin</br>
+Remplacement du systéme QB target</br>
+Retrait du cannabis farm standard, limité maintenant aux graines en extérrieur (dispo growshop pour le moment)</br>
+Traduction d'une 10éne d'items</br>
+Ajout du GrowShop au white whidow (emplacement provisoire)</br>
+Ajout des différentes clés pour accés labo</br>
+Remise en place du dispatch PS</br>
+Ajout d'un garage auprés du métier livreur</br>
+
+
+
 
 
 ## By Shino - vico4dev
