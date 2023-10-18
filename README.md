@@ -129,6 +129,12 @@ Ajout des différentes clés pour accés labo</br>
 Remise en place du dispatch PS</br>
 Ajout d'un garage auprés du métier livreur</br>
 
+## Patch 19/10/2023
+Ajustement des farms métiers : Ems, Hornys, Bahama's, Tow. </br>
+Remise en place du MDT Police PS</br>
+Divers sur différents jobs correctifs</br>
+Mise en place du script de persistance des véhicules Merci @saby</br>
+
 
 
 
