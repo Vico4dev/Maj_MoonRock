@@ -135,8 +135,12 @@ Remise en place du MDT Police PS</br>
 Divers sur différents jobs correctifs</br>
 Mise en place du script de persistance des véhicules Merci @saby</br>
 
-
-
+## Patch 22/10/202
+Réglages des problémes liés aux factures </br>
+Réduction de la distance de diffusion de la musique du bahama </br>
+Réparation du probléme avec les items consomables achetés aux magasins </br>
+Changement du systéme de clés (en test) </br>
+Suppression d'une alerte inutile dispatch LSPD</br>
 
 
 ## By Shino - vico4dev
